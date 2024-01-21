@@ -1,0 +1,18 @@
+2024-01-21 21:45:43,061 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-21 21:47:16,720 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Selenium_Automation_framework:selenium_Framework:0.0.1-SNAPSHOT @ /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/pom.xml.
+2024-01-21 21:47:16,794 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium_Framework/src/main/java
+2024-01-21 21:47:16,795 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /selenium_Framework/src/test/java
+2024-01-21 21:47:16,811 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2024-01-21 21:47:17,446 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 21:47:17,446 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/main/resources
+2024-01-21 21:47:17,449 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 21:47:17,449 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/test/resources
+2024-01-21 21:47:31,777 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 21:47:31,777 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/main/resources
+2024-01-21 21:47:31,778 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 21:47:31,778 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/test/resources
+2024-01-21 23:05:30,461 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-21 23:05:46,653 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 23:05:46,655 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/main/resources
+2024-01-21 23:05:46,658 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-01-21 23:05:46,658 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amit.pandey1/Desktop/amit_git_project/selenium_Framework/src/test/resources
